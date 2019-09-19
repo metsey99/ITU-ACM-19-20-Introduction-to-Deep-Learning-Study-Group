@@ -2,26 +2,20 @@
 
 ### Instructors
 
-**Your Name and Surname**
-
-*Computer Engineering #4 @I.T.U*
-
-[*LinkedIn*](https://www.linkedin.com/in/)
-
-**Your Name and Surname**
+Metehan Seyran
 
 *Computer Engineering #3 @I.T.U*
 
-[*LinkedIn*](https://www.linkedin.com/in/)
+[*LinkedIn*](https://www.linkedin.com/in/metehan-seyran/)
+
+
 
 
 ### Prerequisities
-1. Basic knowledge about any programming language.
-2. so on...
+1. Basic knowledge about Python programming language
 
 ### Goal
-
-goals about program...
+Make students familiarize concepts about Machine and mostly Deep Learning.
 
 ### Syllabus
 
