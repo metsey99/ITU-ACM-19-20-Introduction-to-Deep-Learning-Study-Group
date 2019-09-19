@@ -1,5 +1,3 @@
-[![](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)](https://ituacm.com/wp-content/uploads/2017/12/fb-tes-720p-1024x576.png)
-
 ### Instructors
 
 Metehan Seyran
@@ -7,8 +5,6 @@ Metehan Seyran
 *Computer Engineering #3 @I.T.U*
 
 [*LinkedIn*](https://www.linkedin.com/in/metehan-seyran/)
-
-
 
 
 ### Prerequisities
