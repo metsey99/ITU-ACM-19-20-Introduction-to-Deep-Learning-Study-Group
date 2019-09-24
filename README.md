@@ -17,25 +17,26 @@ Make students familiarize concepts about Machine and mostly Deep Learning.
 
 |  #Date |  #Topic  | #Description  |
 | :------------: | :------------: | :------------: |
-| 1 September 2019 | Basit javascript, React Native kurulumu ve react native eğitimi. | React Native kurulumunda yardım, basit seviyede ES6, ES7 anlatımı, React Native tarihçesi, çalışma prensibi ve basit giriş |
-| 1 September 2019  | React Native egitimine devam.  | React Native projelerinin genel hiyerarşisi, Componentler ve Kütüphaneler  |
-| 1 September 2019  |  Exchange Rate App baslangic.  | Projeye başlangıç. Kullanışlı Componentler ve API çağırmaları hakkında genel bilgiler  |
-| 1 September 2019  |  Exchange Rate App e navigation ekleme.  | React Navigation kütüphanesi hakkında genel bilgiler  |
-| 1 September 2019  |Exchange Rate App design.  | Component tasarımı hakkında genel bilgiler  |
-| 1 September 2019  |  React ve Flutter hakkinda kisa bilgiler. |  Play Store'a uygulama deploylama, Frontend için kullanılan React ve başka bir Cross-Platform olan Flutter hakkınfa kısa bilgiler |
+| 1 September 2019 | Course Introduction | Deep Learning nedir,kullanım alanları nelerdir, niye bu kadar popüler gibi sorulara değinilip kısaca syllabus'tan bahsediş |
+| 1 September 2019  | Logistic Regression & NumPy 1 | Logistic Regression algoritması ve NumPy ile implemente edilmesi(ağırlıklı olarak NumPy)  |
+| 1 September 2019  | Logistic Regression & NumPy 2   | Logistic Regression algoritması ve NumPy ile implemente edilmesi(implementation)  |
+| 1 September 2019  | Linear classification and Loss Function  | Nöral ağlarda gerçekleşen forward propagation ve kayıp fonksiyonu  |
+| 1 September 2019  | Backpropagation & Deeper Neural Networks  | Nöral ağlarda gerçekleşen update olayları ve birden fazla katmanlı derin nöral ağlar  |
+| 1 September 2019  | Hyperparameter Tuning | Nöral Ağlarda üzerinde yapılan küçük verimli uygulamalar |
+| 1 September 2019  | Implementation using a framework | Bir python framework'ü kullanarak NumPy ile yazılmış kodları karşılaştırma |
 
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
-(Lectures will be in ITU Faculty of Chemical and Metallurgical Engineering classroom D205 at every Thursday 17.30)
-
 # Important Links
-
-You can add links here about your program...
+[The Deep Learning Book](https://www.deeplearningbook.org/)
+[Deep Learning Specialization](https://www.deeplearning.ai/)
+[Stanford Introduction to Deep Learning Course](http://cs231n.stanford.edu/)
+More willl be added...
 
 # Suggested Readings
-
-You can add readings here about your program...
+[The Deep Learning Book](https://www.deeplearningbook.org/)
+More willl be added...
 
 # Project
 Short project details. For more information visit the [Project file](/Project)
