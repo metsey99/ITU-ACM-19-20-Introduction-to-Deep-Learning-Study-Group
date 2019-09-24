@@ -23,20 +23,20 @@ Make students familiarize concepts about Machine and mostly Deep Learning.
 | 1 September 2019  | Linear classification and Loss Function  | Nöral ağlarda gerçekleşen forward propagation ve kayıp fonksiyonu  |
 | 1 September 2019  | Backpropagation & Deeper Neural Networks  | Nöral ağlarda gerçekleşen update olayları ve birden fazla katmanlı derin nöral ağlar  |
 | 1 September 2019  | Hyperparameter Tuning | Nöral Ağlarda üzerinde yapılan küçük verimli uygulamalar |
-| 1 September 2019  | Implementation using a framework | Bir python framework'ü kullanarak NumPy ile yazılmış kodları karşılaştırma |
+| 1 September 2019  | Implementation using a framework | Seçilen bir Python framework'ü kullanarak NumPy ile yazılmış kodları karşılaştırma |
 
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
 # Important Links
-[The Deep Learning Book](https://www.deeplearningbook.org/)
-[Deep Learning Specialization](https://www.deeplearning.ai/)
-[Stanford Introduction to Deep Learning Course](http://cs231n.stanford.edu/)
-More willl be added...
+[The Deep Learning Book](https://www.deeplearningbook.org/)<br/>
+[Deep Learning Specialization](https://www.deeplearning.ai/)<br/>
+[Stanford Introduction to Deep Learning Course](http://cs231n.stanford.edu/)<br/>
+More will be added...<br/>
 
 # Suggested Readings
-[The Deep Learning Book](https://www.deeplearningbook.org/)
-More willl be added...
+[The Deep Learning Book](https://www.deeplearningbook.org/)<br/>
+More will be added...
 
 # Project
 Short project details. For more information visit the [Project file](/Project)
